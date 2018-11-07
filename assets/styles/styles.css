@@ -22,11 +22,7 @@ h2 {
 	margin-top: 0;
 }
 
-}
-.bio{
-	color: black;
-	font-size: 30px;
-}
+
 .bio2{
 	color: black;
 	font-size: 30px;
@@ -35,9 +31,14 @@ h2 {
 	color: black;
 	font-size: 30px;
 }
+.bio4{
+	color: black;
+	font-size: 30px;
+}
+
 .me{
 	height: 400px;
-	border-radius: 50%;
+	border-radius: 60%;
 	border-style: solid;
 	border-color: white;
 	margin-top: 40px;
